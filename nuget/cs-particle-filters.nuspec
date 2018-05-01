@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>cs-particle-filters</id>
+    <version>1.0.1</version>
+    <authors>cschen1205</authors>
+    <owners>cschen1205</owners>
+    <licenseUrl>https://github.com/cschen1205/cs-particle-filters/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/cschen1205/cs-particle-filters</projectUrl>
+    <iconUrl>https://rawgit.com/cschen1205/cs-particle-filters/master/icon.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Particle Filters</description>
+    <releaseNotes>Particle Filters in .NET 4.6.1</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Particle Filters, Bayesian Filters, c-sharp</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>
