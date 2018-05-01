@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-particle-filters", "cs-particle-filters\cs-particle-filters.csproj", "{AF5DA17B-9980-4A06-B440-0016F2B30B8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-particle-filters-samples", "cs-particle-filters-samples\cs-particle-filters-samples.csproj", "{E66C6764-09B2-4CB6-8F75-35953284EA30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AF5DA17B-9980-4A06-B440-0016F2B30B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF5DA17B-9980-4A06-B440-0016F2B30B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF5DA17B-9980-4A06-B440-0016F2B30B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66C6764-09B2-4CB6-8F75-35953284EA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66C6764-09B2-4CB6-8F75-35953284EA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66C6764-09B2-4CB6-8F75-35953284EA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66C6764-09B2-4CB6-8F75-35953284EA30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
